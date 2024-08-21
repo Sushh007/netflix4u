@@ -1,11 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Description 
 MovieSite4U is a responsive web application designed for seamless movie browsing across devices. It dynamically fetches real-time data via API integration, allowing users to explore trending, top-rated, and genre-specific films. The site features comprehensive movie details, including ratings, genre, and cast, with advanced search and filtering options for easy navigation. Built using modern technologies like React.js and CSS, the platform provides smooth transitions and an intuitive interface, making it a showcase of front-end design and dynamic content management skills.
 
-
+# Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
